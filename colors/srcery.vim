@@ -995,7 +995,7 @@ hi! link clojureUnquote SrceryYellow
 
 hi! link cOperator SrceryMagenta
 hi! link cStructure SrceryYellow
-hi! link cCustomFunc SrceryCyan
+hi! link cCustomFunc SrceryCyanBold
 hi! link cCustomClass SrceryCyanBold
 
 " }}}
