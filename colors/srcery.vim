@@ -995,6 +995,7 @@ hi! link clojureUnquote SrceryYellow
 
 hi! link cOperator SrceryMagenta
 hi! link cStructure SrceryYellow
+hi! link cFunction SrceryCyanBold
 
 " }}}
 " Python: {{{
